@@ -1,9 +1,9 @@
 # data-structure
 Data Structure Implementations and Tests.<br>
-This repository contains source code and tests for various data structure implementations.<br><br>
+This repository contains source code and tests for various data structure implementations.<br>
 
 Implementations
-The repository includes implementations of the following data structures:<br><br>
+The repository includes implementations of the following data structures:<br>
 
 AVL Tree (source/avl.c)<br>
 Binary Tree (source/binary_tree.c)<br>
