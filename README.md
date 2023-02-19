@@ -1,5 +1,5 @@
 # data-structure
-Data Structure Implementations and Tests
+Data Structure Implementations and Tests.<br>
 This repository contains source code and tests for various data structure implementations.<br><br>
 
 Implementations
